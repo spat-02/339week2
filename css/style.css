@@ -1,0 +1,10 @@
+body {
+    font-family: Courier, "Times New Roman", Impact;
+    /* line-height: 2; */
+    color: darkblue;
+    background-color: lightgrey;
+}
+
+img {
+    border: solid 10px #000000;
+}
