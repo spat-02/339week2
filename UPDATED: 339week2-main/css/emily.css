@@ -1,0 +1,20 @@
+h1,h2, h3{
+   font-weight: bold;
+   margin-top:15px;
+ 
+}
+ul li{
+   margin-left: 25px;
+   list-style-type: upper-roman;
+}
+
+nav{
+   background-color: aqua;
+   border:5px solid black;
+   border-radius: 10px;
+}
+
+header nav ul li{
+   display:inline-block;
+   width: 30%;
+ }
