@@ -1,0 +1,17 @@
+body {
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+
+ nav {
+    border-color: aqua;
+    border: solid;
+    border-width: 3px;
+ }
+ 
+ header nav ul li {
+    display: inline-block;
+    background: aqua;
+    border-style: 5px;
+ }
